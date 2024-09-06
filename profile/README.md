@@ -1,4 +1,4 @@
-![Your Company Logo](images/purple_logo.png)
+![Your Company Logo](/images/purple_logo.png)
 # Welcome to Thinking App GitHub Repository
 
 Welcome to the official GitHub repository of Thinking App! We are a software development company specializing in cutting-edge solutions for Artificial Intelligence (AI) and Internet of Things (IoT). Explore our projects, collaborate with us, and contribute to the advancement of technology.
